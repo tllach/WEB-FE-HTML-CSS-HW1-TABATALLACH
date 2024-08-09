@@ -50,9 +50,13 @@ section{
     width: 100%;
 }
 
-section p{
+section.just-text p{
     margin: 0;
-    padding: 0 20px 10px 20px;
+    padding: 0 20px 20px 20px;
+}
+
+section.lists li {
+    padding: 10px 5px;
 }
 
 div.titles-icon figure{
@@ -79,8 +83,16 @@ div.titles-icon figure h2 {
     padding: 0 40px;
 }
 
-.education-info p {
+.list-info p {
     margin: 0;
     display:inline-block;
 }
 
+.list-info-fv p{
+    margin: 0;
+    color:rgb(34, 74, 207)
+}
+
+.skills ul{
+    margin: 0;
+}
