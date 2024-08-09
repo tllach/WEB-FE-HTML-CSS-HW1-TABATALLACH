@@ -96,3 +96,13 @@ div.titles-icon figure h2 {
 .skills ul{
     margin: 0;
 }
+
+.project {
+    margin:0;
+    padding: 0 20px;
+}
+
+.project h3 {
+    margin: 0;
+    padding: 0;
+}
