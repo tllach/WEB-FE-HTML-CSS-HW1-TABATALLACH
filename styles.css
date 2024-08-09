@@ -1,0 +1,32 @@
+header { 
+    background: #022d79;
+    color: white;
+    /* to make the header placed at the top  */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 55%;
+}
+
+#first_info{
+    padding : 20px 0 0 20px;
+}
+
+#quote{
+    width: 100%;
+    padding : 0 0 0 20px;
+}
+
+cite {
+    padding : 0 0 0 220px;
+}
+
+img {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 40px;
+    right: 30px;
+}
