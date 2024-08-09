@@ -1,6 +1,6 @@
 body {
     font-family: 'Times New Roman', Times, serif, sans-serif;
-    margin: 30px 90px;
+    margin: 30px 90px 0 90px;
     background-color: #f4f4f4;
 }
 
@@ -123,4 +123,16 @@ div.titles-icon figure h2 {
 }
 a {
     color:rgb(0, 0, 0)
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    width: 100%;
+}
+
+footer img,p{
+    margin: 0;
 }
