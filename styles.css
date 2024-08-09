@@ -106,3 +106,21 @@ div.titles-icon figure h2 {
     margin: 0;
     padding: 0;
 }
+
+.books {
+    margin: 0;
+    display:inline block;
+}
+
+.book{
+    margin: 0;
+    padding: 0 20px;
+}
+
+.book img {
+    width: 20px;
+    height: 20px;
+}
+a {
+    color:rgb(0, 0, 0)
+}
