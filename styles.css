@@ -19,7 +19,7 @@ header {
 }
 
 #quote{
-    padding : 0 0 0 20px;
+    padding : 10px 20px;
 }
 cite {
     padding : 0 0 0 220px;
@@ -105,6 +105,10 @@ div.titles-icon figure h2 {
 .project h3 {
     margin: 0;
     padding: 0;
+}
+
+.project p{
+    margin: 10px;
 }
 
 .books {
