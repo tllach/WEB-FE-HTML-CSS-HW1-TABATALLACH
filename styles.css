@@ -43,26 +43,44 @@ hr {
     margin: 0;
 }
 
-.about-me{
-    padding: 20px;
+section{
+    padding: 0;
     display: inline-block;
+    background-color: #ebeaea;
+    width: 100%;
 }
 
-div.title-icon figure{
+section p{
+    margin: 0;
+    padding: 0 20px 10px 20px;
+}
+
+div.titles-icon figure{
     display: inline-block;
     margin: 0;
-    padding: 0;
+    padding: 20px 0 10px 20px;
 }
 
-div.title-icon figure img {
+div.titles-icon figure img {
     width: 30px;
     vertical-align: middle;
     display: inline;
 }
 
-div.title-icon figure h2 {
+div.titles-icon figure h2 {
     display: inline;
     margin: 0;
     padding: 0;
     vertical-align: middle; /* Alinea el texto verticalmente con el ícono */
 }
+
+.education ol {
+    margin:0;
+    padding: 0 40px;
+}
+
+.education-info p {
+    margin: 0;
+    display:inline-block;
+}
+
